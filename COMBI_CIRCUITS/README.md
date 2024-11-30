@@ -8,6 +8,9 @@ The project demonstrates various circuits simulated under **Xilinx Vivado** to b
 ## Schematics
 Below are some of the schematics developed during this project:
 
+### 4 Bit Ripple Carry Adder
+![RPA_4BIT](./SCHEMATICS/RPA_4BIT.png)
+
 ### Full Adder Using Case Statements
 ![FA_CASE](./SCHEMATICS/FA_CASE.png)
 
@@ -22,9 +25,6 @@ Below are some of the schematics developed during this project:
 
 ### 4x1 MUX Using Gates
 ![MUX_4x1_GATE](./SCHEMATICS/MUX_4x1_GATE.png)
-
-### 4 Bit Ripple Carry Adder
-![RPA_4BIT](./SCHEMATICS/RPA_4BIT.png)
 
 
 
