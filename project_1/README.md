@@ -1,8 +1,6 @@
-# VLSI DESIGN COURSE
+# Basic HDL Coding Concepts Circuits
 
 This folder contains the schematics and simulated circuits developed during the **VLSI Design Course** using **Xilinx Vivado**. The folder `project_1` includes foundational concepts of HDL coding and their corresponding circuits.
-
-# Basic HDL Coding Concepts Circuits
 
 ## Overview
 The project demonstrates various circuits simulated under **Xilinx Vivado** to build an understanding of HDL coding concepts.
