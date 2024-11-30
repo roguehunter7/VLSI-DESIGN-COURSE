@@ -1,0 +1,8 @@
+# Hardware-related files
+*.hw/
+
+# IP user files
+*.ip_user_files/
+
+# Cache files
+*.cache/
