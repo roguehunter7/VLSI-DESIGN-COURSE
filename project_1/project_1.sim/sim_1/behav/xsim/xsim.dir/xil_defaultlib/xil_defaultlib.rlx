@@ -1,0 +1,14 @@
+0.6
+2018.2
+Jun 14 2018
+20:41:02
+C:/Users/Sreeram/project_1/project_1.sim/sim_1/behav/xsim/glbl.v,1529022455,verilog,,,,glbl,,,,,,,,
+C:/Users/Sreeram/project_1/project_1.srcs/sim_1/new/TB_FA_MI.v,1732773273,verilog,,,,TB_FA_MI,,,,,,,,
+C:/Users/Sreeram/project_1/project_1.srcs/sim_1/new/TB_HA_DATA.v,1732780051,verilog,,,,TB_HA_DATA,,,,,,,,
+C:/Users/Sreeram/project_1/project_1.srcs/sources_1/new/FA_MI.v,1732772855,verilog,,C:/Users/Sreeram/project_1/project_1.srcs/sources_1/new/HA_gate.v,,FA_MI,,,,,,,,
+C:/Users/Sreeram/project_1/project_1.srcs/sources_1/new/HA_CASE.v,1732780237,verilog,,C:/Users/Sreeram/project_1/project_1.srcs/sim_1/new/TB_HA_DATA.v,,HA_CASE,,,,,,,,
+C:/Users/Sreeram/project_1/project_1.srcs/sources_1/new/HA_gate.v,1732721501,verilog,,C:/Users/Sreeram/project_1/project_1.srcs/sim_1/new/TB_FA_MI.v,,HA_gate,,,,,,,,
+C:/Users/Sreeram/project_1/project_1.srcs/sources_1/new/Module_test.v,1732786583,verilog,,,,Module_test,,,,,,,,
+C:/Users/Sreeram/project_1/project_1.srcs/sources_1/new/block.v,1732778881,verilog,,,,block,,,,,,,,
+C:/Users/Sreeram/project_1/project_1.srcs/sources_1/new/half_adder_dataflow.v,1732720968,verilog,,,,half_adder_dataflow,,,,,,,,
+C:/Users/Sreeram/project_1/project_1.srcs/sources_1/new/test1.v,1732681697,verilog,,,,test1,,,,,,,,
