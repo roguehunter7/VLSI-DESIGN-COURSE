@@ -14,6 +14,9 @@ Below are some of the schematics developed during this project:
 ### Full Adder Using Case Statements
 ![FA_CASE](./SCHEMATICS/FA_CASE.png)
 
+### Full Adder Using If-Else Statements
+![FA_IF](./SCHEMATICS/FA_IF.png)
+
 ### Full Adder Using Gates
 ![FA_GATE](./SCHEMATICS/FA_GATE.png)
 
