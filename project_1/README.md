@@ -11,19 +11,19 @@ The project demonstrates various circuits simulated under **Xilinx Vivado** to b
 Below are some of the schematics developed during this project:
 
 ### Full Adder Using Module Instantiation
-![FA_MI](./project1/SCHEMATICS/FA_MI.png)
+![FA_MI](./SCHEMATICS/FA_MI.png)
 
 ### Half Adder Using Case Statements
-![HA_CASE](./project1/SCHEMATICS/HA_CASE.png)
+![HA_CASE](./SCHEMATICS/HA_CASE.png)
 
 ### Half Adder Using Gates
-![HA_GATE](./project1/SCHEMATICS/HA_GATE.png)
+![HA_GATE](./SCHEMATICS/HA_GATE.png)
 
 ### Half Adder Using Dataflow Modelling
-![HA_DATAFLOW](./project1/SCHEMATICS/HA_DATAFLOW.png)
+![HA_DATAFLOW](./SCHEMATICS/HA_DATAFLOW.png)
 
 ### Module Test
-![Module Test](./project1/SCHEMATICS/Module_test.png)
+![Module Test](./SCHEMATICS/Module_test.png)
 
 
 
