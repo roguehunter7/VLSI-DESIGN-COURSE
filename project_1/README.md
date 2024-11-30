@@ -27,7 +27,7 @@ Below are some of the schematics developed during this project:
 
 ## Tools Used
 - **Xilinx Vivado**
-- HDL Coding (VHDL/Verilog)
+- HDL Coding (Verilog)
 
 ## How to Use
 1. Clone the repository:
