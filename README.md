@@ -1,2 +1,2 @@
 # VLSI DESIGN COURSE
- Files created during learning VLSI Design Course
+ Repository created for learning VLSI Design Course
