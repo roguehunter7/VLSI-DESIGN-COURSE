@@ -29,6 +29,9 @@ Below are some of the schematics developed during this project:
 ### 4x1 MUX Using Gates
 ![MUX_4x1_GATE](./SCHEMATICS/MUX_4x1_GATE.png)
 
+### 1x4 DEMUX Using Dataflow Modeling
+![MUX_4x1_GATE](./SCHEMATICS/DEMUX_1x4_DF.png)
+
 
 
 
