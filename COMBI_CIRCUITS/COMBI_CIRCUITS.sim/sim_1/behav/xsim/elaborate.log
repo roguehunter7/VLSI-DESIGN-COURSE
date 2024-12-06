@@ -1,14 +1,13 @@
 Vivado Simulator 2018.2
 Copyright 1986-1999, 2001-2018 Xilinx, Inc. All Rights Reserved.
-Running: C:/Xilinx/Vivado/2018.2/bin/unwrapped/win64.o/xelab.exe -wto 135ea99b10b54968b13f5f39d0daa719 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot Decoder_3to8_behav xil_defaultlib.Decoder_3to8 xil_defaultlib.glbl -log elaborate.log 
+Running: C:/Xilinx/Vivado/2018.2/bin/unwrapped/win64.o/xelab.exe -wto 135ea99b10b54968b13f5f39d0daa719 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot Module_test_Thermometer_behav xil_defaultlib.Module_test_Thermometer xil_defaultlib.glbl -log elaborate.log 
 Using 2 slave threads.
 Starting static elaboration
-WARNING: [VRFC 10-278] actual bit length 32 differs from formal bit length 1 for port B [C:/Users/Sreeram/Documents/GitHub/VLSI-DESIGN-COURSE/COMBI_CIRCUITS/COMBI_CIRCUITS.srcs/sources_1/new/Decoder_3to8.v:38]
 Completed static elaboration
 Starting simulation data flow analysis
 Completed simulation data flow analysis
 Time Resolution for simulation is 1ps
-Compiling module xil_defaultlib.Decoder_2to4E
-Compiling module xil_defaultlib.Decoder_3to8
+Compiling module xil_defaultlib.FA_GATE
+Compiling module xil_defaultlib.Module_test_Thermometer
 Compiling module xil_defaultlib.glbl
-Built simulation snapshot Decoder_3to8_behav
+Built simulation snapshot Module_test_Thermometer_behav

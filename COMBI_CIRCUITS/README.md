@@ -38,6 +38,17 @@ Below are some of the schematics developed during this project:
 ### 3 to 8 Decoder
 ![Decoder_3to8](./SCHEMATICS/Decoder_3to8.png)
 
+### Function Decoder
+![Func_decoder](./SCHEMATICS/Func_decoder.png)
+
+### Grey to Binary Decoder
+![GtoB](./SCHEMATICS/GtoB.png)
+
+### 1 Bit Comparator
+![comp_1bit](./SCHEMATICS/comp_1bit.png)
+
+### Module Test (Thermometer)
+![Module_test_thermometer](./SCHEMATICS/Module_test_thermometer.png)
 
 
 
