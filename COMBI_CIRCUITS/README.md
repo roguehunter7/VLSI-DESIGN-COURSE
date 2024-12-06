@@ -30,7 +30,13 @@ Below are some of the schematics developed during this project:
 ![MUX_4x1_GATE](./SCHEMATICS/MUX_4x1_GATE.png)
 
 ### 1x4 DEMUX Using Dataflow Modeling
-![MUX_4x1_GATE](./SCHEMATICS/DEMUX_1x4_DF.png)
+![DEMUX_1x4_DF](./SCHEMATICS/DEMUX_1x4_DF.png)
+
+### 2 to 4 Decoder
+![Decoder_2to4](./SCHEMATICS/Decoder_2to4.png)
+
+### 3 to 8 Decoder
+![Decoder_3to8](./SCHEMATICS/Decoder_3to8.png)
 
 
 

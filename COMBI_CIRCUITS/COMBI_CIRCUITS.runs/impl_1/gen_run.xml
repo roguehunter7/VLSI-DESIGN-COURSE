@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <GenRun Id="impl_1" LaunchPart="xc7z020clg484-1" LaunchTime="1732872042">
-  <File Type="PA-TCL" Name="RPA_4bit.tcl"/>
   <File Type="BITSTR-BMM" Name="RPA_4bit_bd.bmm"/>
-  <File Type="REPORTS-TCL" Name="RPA_4bit_reports.tcl"/>
+  <File Type="PA-TCL" Name="RPA_4bit.tcl"/>
   <File Type="OPT-DCP" Name="RPA_4bit_opt.dcp"/>
+  <File Type="REPORTS-TCL" Name="RPA_4bit_reports.tcl"/>
   <File Type="OPT-HWDEF" Name="RPA_4bit.hwdef"/>
+  <File Type="BG-BGN" Name="RPA_4bit.bgn"/>
   <File Type="PWROPT-DCP" Name="RPA_4bit_pwropt.dcp"/>
   <File Type="PLACE-DCP" Name="RPA_4bit_placed.dcp"/>
   <File Type="PLACE-PRE-SIMILARITY" Name="RPA_4bit_incremental_reuse_pre_placed.rpt"/>
-  <File Type="BG-BGN" Name="RPA_4bit.bgn"/>
   <File Type="POSTPLACE-PWROPT-DCP" Name="RPA_4bit_postplace_pwropt.dcp"/>
   <File Type="BG-BIN" Name="RPA_4bit.bin"/>
   <File Type="PHYSOPT-DCP" Name="RPA_4bit_physopt.dcp"/>
