@@ -1,6 +1,6 @@
 # Combinational Circuits 
 
-This folder contains the schematics and simulated circuits developed during the **VLSI Design Course** using **Xilinx Vivado**. The folder `COMBI_CIRCUITS` includes foundational concepts of HDL coding and their corresponding circuits.
+This folder contains the schematics and simulated circuits developed during the **VLSI Design Course** using **Xilinx Vivado**. The folder `COMBI_CIRCUITS` includes foundational concepts of combinational circuits concepts and their corresponding circuits.
 
 ## Overview
 The project demonstrates various circuits simulated under **Xilinx Vivado** to build an understanding of combinantional circuitss.
