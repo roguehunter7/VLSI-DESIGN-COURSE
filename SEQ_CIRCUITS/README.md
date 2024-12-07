@@ -11,6 +11,18 @@ Below are some of the schematics developed during this project:
 ### Set-Reset Latch
 ![SR_LATCH](./SCHEMATICS/SR_LATCH.png)
 
+### Set-Reset Flip Flop
+![SR_FF](./SCHEMATICS/SR_FF.png)
+
+### Data Flip Flop
+![D_FF](./SCHEMATICS/D_FF.png)
+
+### Toggle Flip Flop
+![T_FF](./SCHEMATICS/T_FF.png)
+
+### JK Flip Flop
+![JK_FF](./SCHEMATICS/JK_FF.png)
+
 
 
 ## Tools Used

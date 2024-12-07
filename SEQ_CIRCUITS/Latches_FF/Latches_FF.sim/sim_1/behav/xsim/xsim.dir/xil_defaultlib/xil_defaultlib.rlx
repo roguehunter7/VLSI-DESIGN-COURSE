@@ -3,4 +3,6 @@
 Jun 14 2018
 20:41:02
 C:/Users/Sreeram/Documents/GitHub/VLSI-DESIGN-COURSE/SEQ_CIRCUITS/Latches_FF/Latches_FF.sim/sim_1/behav/xsim/glbl.v,1529022455,verilog,,,,glbl,,,,,,,,
-C:/Users/Sreeram/Documents/GitHub/VLSI-DESIGN-COURSE/SEQ_CIRCUITS/Latches_FF/Latches_FF.srcs/sources_1/new/SR_LATCH.v,1733552450,verilog,,,,SR_LATCH,,,,,,,,
+C:/Users/Sreeram/Documents/GitHub/VLSI-DESIGN-COURSE/SEQ_CIRCUITS/Latches_FF/Latches_FF.srcs/sources_1/new/SR_FF.v,1733555720,verilog,,,,SR_FF,,,,,,,,
+C:/Users/Sreeram/Documents/GitHub/VLSI-DESIGN-COURSE/SEQ_CIRCUITS/Latches_FF/Latches_FF.srcs/sources_1/new/SR_LATCH.v,1733552450,verilog,,C:/Users/Sreeram/Documents/GitHub/VLSI-DESIGN-COURSE/SEQ_CIRCUITS/Latches_FF/Latches_FF.srcs/sources_1/new/SR_FF.v,,SR_LATCH,,,,,,,,
+C:/Users/Sreeram/Documents/GitHub/VLSI-DESIGN-COURSE/SEQ_CIRCUITS/Latches_FF/Latches_FF.srcs/sources_1/new/T_FF.v,1733561021,verilog,,,,T_FF,,,,,,,,
