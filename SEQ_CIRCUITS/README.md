@@ -32,6 +32,12 @@ Below are some of the schematics developed during this project:
 ### 4 Bit Register with clear
 ![REG_4bit_clear](./SCHEMATICS/REG_4bit_clear.png)
 
+### 4 Bit PIPO Bi-Directional Shift Register
+![REG_PIPO_BD_SHIFT](./SCHEMATICS/REG_PIPO_BD_SHIFT.png)
+
+### 4 Bit SIPO Shift Register
+![REG_SIPO_4Bit](./SCHEMATICS/REG_SIPO_4Bit.png)
+
 
 
 ## Tools Used
