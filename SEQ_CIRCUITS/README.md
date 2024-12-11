@@ -23,6 +23,15 @@ Below are some of the schematics developed during this project:
 ### JK Flip Flop
 ![JK_FF](./SCHEMATICS/JK_FF.png)
 
+### Simple 4 Bit Register
+![REG_4bit](./SCHEMATICS/REG_4bit.png)
+
+### 4 Bit Register using Flip Flops
+![REG_4bit_str](./SCHEMATICS/REG_4bit_str.png)
+
+### 4 Bit Register with clear
+![REG_4bit_clear](./SCHEMATICS/REG_4bit_clear.png)
+
 
 
 ## Tools Used
