@@ -38,6 +38,18 @@ Below are some of the schematics developed during this project:
 ### 4 Bit SIPO Shift Register
 ![REG_SIPO_4Bit](./SCHEMATICS/REG_SIPO_4Bit.png)
 
+### 4 Bit Asynchronous Counter
+![Counter_4bit_async](./SCHEMATICS/Counter_4bit_async.png)
+
+### 4 Bit Up Down Counter
+![Counter_4bit_updown](./SCHEMATICS/Counter_4bit_updown.png)
+
+### 4 Bit Ring Counter
+![Counter_4bit_ring](./SCHEMATICS/Counter_4bit_ring.png)
+
+### 4 Bit Johnson Counter
+![Counter_4bit_johnson](./SCHEMATICS/Counter_4bit_johnson.png)
+
 
 
 ## Tools Used
