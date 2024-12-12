@@ -50,6 +50,9 @@ Below are some of the schematics developed during this project:
 ### 4 Bit Johnson Counter
 ![Counter_4bit_johnson](./SCHEMATICS/Counter_4bit_johnson.png)
 
+### Module Assignment - 16 Bit SIPO Register
+![REG_16bit_SIPO](./SCHEMATICS/REG_16bit_SIPO.png)
+
 
 
 ## Tools Used
