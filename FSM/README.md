@@ -9,7 +9,7 @@ The project demonstrates various circuits simulated under **Xilinx Vivado** to b
 Below are some of the schematics developed during this project:
 
 ### Finite State Machine (FSM) Counter
-[FSM_Counter](./SCHEMATICS/FSM_Counter.png)
+![FSM_Counter](./SCHEMATICS/FSM_Counter.png)
 
 ### FSM Counter Simulation Output
 ![FSM_Counter_Sim](./SCHEMATICS/FSM_Counter_Sim.png)
