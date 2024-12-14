@@ -18,7 +18,7 @@ Below are some of the schematics developed during this project:
 ![FSM_Pattern_Reg](./SCHEMATICS/FSM_Pattern_Reg.png)
 
 ### FSM Pattern Recognition Simulation Output
-![FSM_Pattern_Reg](./SCHEMATICS/FSM_Pattern_Reg.png)
+![FSM_Pattern_Reg](./SCHEMATICS/FSM_Pattern_Reg_Sim.png)
 
 
 
