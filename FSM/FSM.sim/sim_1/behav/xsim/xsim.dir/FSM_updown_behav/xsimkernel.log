@@ -1,0 +1,7 @@
+Running: xsim.dir/FSM_updown_behav/xsimk.exe -simmode gui -wdb FSM_updown_behav.wdb -simrunnum 0 -socket 55007
+Design successfully loaded
+Design Loading Memory Usage: 6824 KB (Peak: 6824 KB)
+Design Loading CPU Usage: 0 ms
+Simulation completed
+Simulation Memory Usage: 7420 KB (Peak: 7420 KB)
+Simulation CPU Usage: 0 ms

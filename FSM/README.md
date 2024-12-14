@@ -14,11 +14,29 @@ Below are some of the schematics developed during this project:
 ### FSM Counter Simulation Output
 ![FSM_Counter_Sim](./SCHEMATICS/FSM_Counter_Sim.png)
 
-### FSM Pattern Recognition
+### FSM Pattern Recognition (Moore's Machine) 
 ![FSM_Pattern_Reg](./SCHEMATICS/FSM_Pattern_Reg.png)
 
-### FSM Pattern Recognition Simulation Output
-![FSM_Pattern_Reg](./SCHEMATICS/FSM_Pattern_Reg_Sim.png)
+### FSM Pattern Recognition Simulation Output (Moore's Machine) 
+![FSM_Pattern_Reg_Sim](./SCHEMATICS/FSM_Pattern_Reg_Sim.png)
+
+### FSM UpDown Counter (Mealy's Machine)
+![FSM_updown](./SCHEMATICS/FSM_updown.png)
+
+### FSM UpDown Counter Simulation Output (Mealy's Machine)
+![FSM_updown_Sim](./SCHEMATICS/FSM_Pattern_updown_Sim.png)
+
+### FSM Pattern Recognition (Mealy's Machine)
+![FSM_Pattern_Mealy](./SCHEMATICS/FSM_Pattern_Mealy.png)
+
+### FSM Pattern Recognition Simulation Output (Mealy's Machine)
+![FSM_Pattern_Mealy_Sim](./SCHEMATICS/FSM_Pattern_Mealy_Sim.png)
+
+### FSM Pattern Recognition (Module Test - Recognise 11011) 
+![FSM_Pattern_11011](./SCHEMATICS/FSM_Pattern_11011.png)
+
+### FSM Pattern Recognition Simulation Output (Module Test - Recognise 11011) 
+![FSM_Pattern_11011_Sim](./SCHEMATICS/FSM_Pattern_11011_Sim.png)
 
 
 
