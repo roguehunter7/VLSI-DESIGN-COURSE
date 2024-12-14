@@ -66,7 +66,7 @@ Below are some of the schematics developed during this project:
    ```
 2. Navigate to the `SEQ_CIRCUITS` folder:
    ```bash
-   cd VLSI-DESIGN-COURSE/COMBI_CIRCUITS
+   cd VLSI-DESIGN-COURSE/SEQ_CIRCUITS
    ```
 3. Open the schematics using Xilinx Vivado or view the `.png` files in the `SCHEMATICS` folder.
 
