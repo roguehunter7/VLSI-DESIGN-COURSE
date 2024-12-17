@@ -1,7 +1,0 @@
-Running: xsim.dir/Counter_4bit_Jhonson_behav/xsimk.exe -simmode gui -wdb Counter_4bit_Jhonson_behav.wdb -simrunnum 0 -socket 55058
-Design successfully loaded
-Design Loading Memory Usage: 7288 KB (Peak: 7288 KB)
-Design Loading CPU Usage: 15 ms
-Simulation completed
-Simulation Memory Usage: 7932 KB (Peak: 7932 KB)
-Simulation CPU Usage: 15 ms

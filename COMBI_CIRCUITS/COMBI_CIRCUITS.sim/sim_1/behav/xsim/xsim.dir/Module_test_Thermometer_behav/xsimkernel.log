@@ -1,7 +1,0 @@
-Running: xsim.dir/Module_test_Thermometer_behav/xsimk.exe -simmode gui -wdb Module_test_Thermometer_behav.wdb -simrunnum 0 -socket 57602
-Design successfully loaded
-Design Loading Memory Usage: 7292 KB (Peak: 7292 KB)
-Design Loading CPU Usage: 31 ms
-Simulation completed
-Simulation Memory Usage: 7884 KB (Peak: 7884 KB)
-Simulation CPU Usage: 31 ms

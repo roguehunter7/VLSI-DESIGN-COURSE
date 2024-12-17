@@ -1,7 +1,0 @@
-Running: xsim.dir/Counter_Ring_4bit_behav/xsimk.exe -simmode gui -wdb Counter_Ring_4bit_behav.wdb -simrunnum 0 -socket 55016
-Design successfully loaded
-Design Loading Memory Usage: 7280 KB (Peak: 7280 KB)
-Design Loading CPU Usage: 15 ms
-Simulation completed
-Simulation Memory Usage: 7936 KB (Peak: 7936 KB)
-Simulation CPU Usage: 15 ms
