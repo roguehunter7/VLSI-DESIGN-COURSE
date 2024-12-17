@@ -9,3 +9,6 @@
 
 # Simulation files
 *.sim/
+
+# Project files
+*.xpr
