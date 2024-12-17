@@ -12,3 +12,6 @@
 
 # Project files
 *.xpr
+
+# Execution files
+*.runs/
