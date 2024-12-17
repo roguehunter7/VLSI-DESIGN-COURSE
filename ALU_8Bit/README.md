@@ -26,7 +26,7 @@ The 8-bit ALU performs the following operations based on the 3-bit opcode:
 Below are some of the schematics developed during this project:
 
 ### 8 Bit ALU 
-![ALU_8_BIT](.SCHEMATICS/ALU_8_BIT.png)
+![ALU_8_BIT](./SCHEMATICS/ALU_8_BIT.png)
 
 ### 8 Bit ALU Simulation Output
 ![ALU_8_BIT_SIM](./SCHEMATICS/ALU_8_BIT_SIM.png)
