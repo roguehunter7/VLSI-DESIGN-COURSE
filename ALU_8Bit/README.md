@@ -2,7 +2,9 @@
 
 ## Description
 
-This project implements an 8-bit Arithmetic Logic Unit (ALU) using Verilog. The ALU is capable of performing eight different operations based on the given opcode. The operations include arithmetic, logical, and shift functions. The design supports two 8-bit inputs and produces a 16-bit output to accommodate operations like multiplication.
+The capstone project is to implement an 8-bit Arithmetic Logic Unit (ALU) using Verilog. The ALU is capable of performing eight different operations based on the given opcode. The operations include arithmetic, logical, and shift functions. The design supports two 8-bit inputs and produces a 16-bit output to accommodate operations like multiplication.
+
+All inputs and outputs are taked as unsigned integers.
 
 ---
 
