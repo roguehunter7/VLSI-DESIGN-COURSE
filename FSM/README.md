@@ -21,10 +21,10 @@ Below are some of the schematics developed during this project:
 ![FSM_Pattern_Reg_Sim](./SCHEMATICS/FSM_Pattern_Reg_Sim.png)
 
 ### FSM UpDown Counter (Mealy's Machine)
-![FSM_updown](./SCHEMATICS/FSM_updown.png)
+![FSM_updown](./SCHEMATICS/FSM_updown.jpg)
 
 ### FSM UpDown Counter Simulation Output (Mealy's Machine)
-![FSM_updown_Sim](./SCHEMATICS/FSM_Pattern_updown_Sim.png)
+![FSM_updown_Sim](./SCHEMATICS/FSM_updown_Sim.png)
 
 ### FSM Pattern Recognition (Mealy's Machine)
 ![FSM_Pattern_Mealy](./SCHEMATICS/FSM_Pattern_Mealy.png)
